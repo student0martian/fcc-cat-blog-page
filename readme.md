@@ -31,6 +31,12 @@ Here is an example using the `header` element:
 Inside the `body` element, add a `header` element.  
 
 
+### Step 2  
+The header will be responsible for displaying the main title, image, and page navigation for the blog.  
+Inside the `header` element, add an `h1` with the text of `Welcome to Mr. Whiskers' Blog Page!`.  
+
+
+
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
