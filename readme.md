@@ -37,12 +37,34 @@ Inside the `header` element, add an `h1` with the text of `Welcome to Mr. Whiske
 
 
 ### Step 3  
-In this introductory content, you will want to show an image of Mr. Whiskers with a caption.
+In this introductory content, you will want to show an image of Mr. Whiskers with a caption.  
 Below the an `h1` element, start by adding `figure` element.  
 Inside the `figure` element, add an `img` element.  
 The `src` attribute of the `img` should have a value of `"https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg"` and the `alt` text should have a value of `"a cat in the garden"`.  
-Below your `img` element, add a `figcaption`
-with the text `Mr. Whiskers in the Garden`.  
+Below your `img` element, add a `figcaption` with the text `Mr. Whiskers in the Garden`.  
+
+
+### Step 4  
+For your blog, there should be a way for users to navigate to different sections on the page.  
+
+The `nav` element is used to provide navigation links to other sections in the document or other sections in the website. A lot of times you will see the `nav` element used for menus or table of contents.  
+
+Here is an example of using the `nav` element:  
+
+**Example Code**  
+```html
+<nav>
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+```  
+
+Below your `figure` add a `nav` element with a `ul` element nested inside.  
+Inside the `ul` element, add three `li` elements.  
+
 
 
 
