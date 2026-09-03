@@ -31,3 +31,8 @@ Here is an example using the `header` element:
 Inside the `body` element, add a `header` element.  
 
 
+
+[Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
+
+[*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
+
