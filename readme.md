@@ -36,6 +36,14 @@ The header will be responsible for displaying the main title, image, and page na
 Inside the `header` element, add an `h1` with the text of `Welcome to Mr. Whiskers' Blog Page!`.  
 
 
+### Step 3  
+In this introductory content, you will want to show an image of Mr. Whiskers with a caption.
+Below the an `h1` element, start by adding `figure` element.  
+Inside the `figure` element, add an `img` element.  
+The `src` attribute of the `img` should have a value of `"https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg"` and the `alt` text should have a value of `"a cat in the garden"`.  
+Below your `img` element, add a `figcaption`
+with the text `Mr. Whiskers in the Garden`.  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
