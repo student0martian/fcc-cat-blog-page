@@ -83,6 +83,14 @@ Now that you are finished building out the page header, you will need to start a
 Below your `header`, add a `main` element.  
 
 
+### Step 7  
+The first section on the page will be the *about* section. The section will introduce Mr. Whiskers and give users an idea of what this blog is about.  
+
+Inside your `main` element, add a `section` element with the `id` attribute set to `"about"`.  
+
+Inside the `section` element, add an `h2` with the text of `About`.  
+
+
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
