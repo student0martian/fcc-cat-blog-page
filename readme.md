@@ -126,6 +126,28 @@ Inside the `article` element, add an `h3` element with the text `Mr. Whiskers' F
 The reason an `h3` is used here is that maintaining a proper structural hierarchy for heading elements is important. Since the posts subheading is an `h2` element, the next level down in the hierarchy would be an `h3`.  
 
 
+### Step 11  
+This blog post is going to contain a couple of paragraphs with *lorem ipsum* text.  
+
+Lorem ipsum is commonly used in web development to serve as placeholder text. It is useful when you want to focus on building out the basic structure of your web pages and not have to worry about the actual content just yet. Here is an example of using lorem ipsum:  
+
+**Example Code**  
+```html
+<p>
+Lorem ipsum dolor sit amet consectetur
+adipisicing elit. Quisquam quod, voluptates,
+quae, quos quibusdam dolorum quia nemo
+repudiandae quidem voluptatum quas.
+Quisquam quod, voluptates, quae, quos
+quibusdam dolorum quia nemo repudiandae
+quidem voluptatum quas.
+</p>
+```  
+
+Below your `h3` element, add two paragraphs of lorem ipsum text.  
+
+
+
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
