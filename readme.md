@@ -177,6 +177,25 @@ Inside the `footer` element, add a `section` element with an `id` set to `contac
 Inside the `section` element, add an `h2` element with the text of `Contact`.  
 
 
+### Step 16  
+Inside the contact section, you will want to show the blog author's contact information. You will use an *address* element for this.  
+
+The `address` element is used to represent contact information for a person or organization.  
+
+Here is an example using the `address` element for a physical address. The `br` element is used here to create a line break between the text.  
+
+**Example Code**  
+```html
+<address>
+  1234 Make Believe Lane <br />
+  Pretend City, USA
+</address>
+```  
+
+Below your `address` element, add an `h2` element.  
+
+
+
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
