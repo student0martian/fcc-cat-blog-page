@@ -216,6 +216,24 @@ Here is how you can make phone numbers clickable:
 Wrap the text `555-555-5555` in an anchor element and use `tel:` to make it a clickable phone number.  
 
 
+### Step 19  
+Similarly, users should be able to click on the email address and send an email from their default email client.  
+
+Here is how you can make email addresses clickable:  
+
+**Example Code**  
+```html
+<a href="mailto:contact@company.com">
+contact@company.com
+</a>
+```  
+
+For this final step, wrap the text `fake@email.com` in an anchor element and use `mailto:` to make it a clickable email address.  
+
+And with those changes, your blog page is now complete.  
+
+
+
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
