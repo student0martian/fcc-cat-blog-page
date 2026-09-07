@@ -203,6 +203,18 @@ Inside the `address` element, add a paragraph element with the text of `Phone: 5
 Below that paragraph element, add another paragraph element with the text of `Email: fake@email.com`.  
 
 
+### Step 18  
+To improve user experience, you will want to enhance the phone number so that users tap on it and initiate a call.  
+
+Here is how you can make phone numbers clickable:  
+
+**Example Code**  
+```html
+<a href="tel:2345678912">234-567-8912</a>
+```  
+
+Wrap the text `555-555-5555` in an anchor element and use `tel:` to make it a clickable phone number.  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
