@@ -195,6 +195,15 @@ Here is an example using the `address` element for a physical address. The `br` 
 Below your `address` element, add an `h2` element.  
 
 
+### Step 17  
+For this step, you will need to add the phone number and email address for the blog author.  
+
+Inside the `address` element, add a paragraph element with the text of `Phone: 555-555-5555`.  
+
+Below that paragraph element, add another paragraph element with the text of `Email: fake@email.com`.  
+
+
+
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
 
