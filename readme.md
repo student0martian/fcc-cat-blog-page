@@ -163,6 +163,13 @@ Inside the `article` element, add an `h3` element with the text of `Mr. Whiskers
 Below your `h3` element, add two paragraphs of lorem ipsum text.  
 
 
+### Step 14  
+Now that you have finished adding all of the blog posts, try clicking on the `Posts` link and you should see that the page jumps down to the `Posts` section.  
+
+The last component to add to your blog page is going to be the contact section.  
+
+Below the `main` element, add a `footer` element.  
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
