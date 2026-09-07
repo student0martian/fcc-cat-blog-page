@@ -4,22 +4,25 @@ Exercises are based on the [freeCodeCamp.org](https://freecodecamp.org) curricul
 
 ### Step 1  
 In this workshop, you will practice working with semantic HTML by building a blog page dedicated to Mr. Whiskers the cat.  
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
- <head>
-  <title>Mr. Whiskers' Blog</title>
-  <meta charset="UTF-8" />
+  <head>
+    <title>Mr. Whiskers' Blog</title>
+    <meta charset="UTF-8" />
   </head>
- <body>
+  <body>
   </body>
- </html>
+</html>
 ```  
 
 The first section you will build out is the page *header*.  
+
 The `header` element is used to represent introductory content like page navigation and other introductory information.  
 
 Here is an example using the `header` element:  
+
 **Example Code**  
 ```html
 <header>
@@ -33,14 +36,19 @@ Inside the `body` element, add a `header` element.
 
 ### Step 2  
 The header will be responsible for displaying the main title, image, and page navigation for the blog.  
+
 Inside the `header` element, add an `h1` with the text of `Welcome to Mr. Whiskers' Blog Page!`.  
 
 
 ### Step 3  
 In this introductory content, you will want to show an image of Mr. Whiskers with a caption.  
+
 Below the an `h1` element, start by adding `figure` element.  
+
 Inside the `figure` element, add an `img` element.  
+
 The `src` attribute of the `img` should have a value of `"https://cdn.freecodecamp.org/curriculum/css-photo-gallery/1.jpg"` and the `alt` text should have a value of `"a cat in the garden"`.  
+
 Below your `img` element, add a `figcaption` with the text `Mr. Whiskers in the Garden`.  
 
 
@@ -63,6 +71,7 @@ Here is an example of using the `nav` element:
 ```  
 
 Below your `figure` add a `nav` element with a `ul` element nested inside.  
+
 Inside the `ul` element, add three `li` elements.  
 
 
@@ -104,18 +113,19 @@ The next section in the blog page will be a list of posts talking about Mr. Whis
 
 Add another `section` element with an `id` set to `"posts"`.  
 
-Inside the `section` element, add an `h2` element with the text of `Posts` .  
+Inside the `section` element, add an `h2` element with the text of `Posts`.  
 
 
 ### Step 10  
 For the first blog post, you will use an *article* element.  
+
 The `article` element represents self contained content on a web page.  
 
 **Example Code**  
 ```html
 <article>
   <h1>Example heading</h1>
-  <p>Example article text</p>
+    <p>Example article text</p>
 </article>
 ```  
 
@@ -134,13 +144,13 @@ Lorem ipsum is commonly used in web development to serve as placeholder text. It
 **Example Code**  
 ```html
 <p>
-Lorem ipsum dolor sit amet consectetur
-adipisicing elit. Quisquam quod, voluptates,
-quae, quos quibusdam dolorum quia nemo
-repudiandae quidem voluptatum quas.
-Quisquam quod, voluptates, quae, quos
-quibusdam dolorum quia nemo repudiandae
-quidem voluptatum quas.
+  Lorem ipsum dolor sit amet consectetur
+   adipisicing elit. Quisquam quod, voluptates,
+  quae, quos quibusdam dolorum quia nemo
+   repudiandae quidem voluptatum quas.
+  Quisquam quod, voluptates, quae, quos
+   quibusdam dolorum quia nemo repudiandae
+  quidem voluptatum quas.
 </p>
 ```  
 
@@ -223,9 +233,7 @@ Here is how you can make email addresses clickable:
 
 **Example Code**  
 ```html
-<a href="mailto:contact@company.com">
-contact@company.com
-</a>
+<a href="mailto:contact@company.com">contact@company.com</a>
 ```  
 
 For this final step, wrap the text `fake@email.com` in an anchor element and use `mailto:` to make it a clickable email address.  
@@ -233,9 +241,11 @@ For this final step, wrap the text `fake@email.com` in an anchor element and use
 And with those changes, your blog page is now complete.  
 
 
-
+---
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
+
+---
 
 [*Check out this book I'm reading*](https://www.freecodecamp.org/news/learn-to-code-book/)
 
