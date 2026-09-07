@@ -155,6 +155,14 @@ Inside the `article` element, add an `h3` element with the text of `Mr. Whiskers
 Below your `h3` element, add two paragraphs of lorem ipsum text.  
 
 
+### Step 13  
+For the third blog post, you will need to add another `article` element.  
+
+Inside the `article` element, add an `h3` element with the text of `Mr. Whiskers' First Birthday Party`.  
+
+Below your `h3` element, add two paragraphs of lorem ipsum text.  
+
+
 
 
 [Click on the link to see my work https://student0martian.github.io/fcc-cat-blog-page/](https://student0martian.github.io/fcc-cat-blog-page/)  
